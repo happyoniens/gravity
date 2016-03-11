@@ -1,0 +1,12 @@
+{
+    "submit": "submit",
+    "all": "all",
+    "following": "following",
+    "search-posts": "Search posts...",
+    "write-something": "Write something...",
+    "load-more": "Load more",
+    "loading-posts": "Loading posts...",
+    "no-matching-posts": "There are no matching posts to display",
+    "messages": "Messages",
+    "compose": "Compose"
+}

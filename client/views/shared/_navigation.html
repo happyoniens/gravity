@@ -10,8 +10,8 @@
             <a href="{{pathFor 'browseUsers'}}"><i class="fa fa-users"></i> Browse users</a>
           </li>
           <li class="{{activeIfRouteNameIs 'messages'}}">
-            <a href="{{pathFor 'messages'}}"><i class="fa fa-envelope"></i> Messages {{getUnreadCount}}</a>
-          </li>    
+            <a href="{{pathFor 'messages'}}"><i class="fa fa-envelope"></i> {{_ "messages" getUnreadCount}}</a>
+          </li>
         </ul>
         <hr>
         <ul>
